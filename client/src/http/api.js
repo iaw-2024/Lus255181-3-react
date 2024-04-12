@@ -1,0 +1,1 @@
+export const getData = () => fetch("http://localhost:3001/datos")
